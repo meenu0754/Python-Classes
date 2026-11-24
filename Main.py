@@ -1,4 +1,5 @@
 A = 20
 B = 30
-c = A+B
-print(C)
+D = 50
+C = A+B+D
+print("C")
